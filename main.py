@@ -5,7 +5,7 @@ app = FastAPI()
 @app.get("/")
 def hello():
     return {"welcome": "hello ahmad khan"}
-@app.get("/")
-def hello():
+@app.get("/about")
+def about():
     return {"welcome": "i am student of computer science"}
     
