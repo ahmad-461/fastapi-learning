@@ -6,5 +6,5 @@ app = FastAPI()
 def hello():
     return {"welcome": "hello ahmad khan"}
 @app.get(/about)
-def hello():
+def about():
     return{"message":"i am student of computer science"}
