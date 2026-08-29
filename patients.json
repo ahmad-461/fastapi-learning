@@ -8,12 +8,10 @@
         "name": "Ali Raza",
         "age": 25,
         "city": "Lahore"
+    },
+    "P003": {
+        "name": "Sara Ahmed",
+        "age": 20,
+        "city": "Karachi"
     }
-    "P003":{
-        "name":"ali khan",
-        "age" : 29,
-        "city" : "Lahore"
-    }
-    
 }
-
