@@ -1,0 +1,12 @@
+{
+    "P001": {
+        "name": "Ahmad Khan",
+        "age": 22,
+        "city": "Multan"
+    },
+    "P002": {
+        "name": "Ali Raza",
+        "age": 25,
+        "city": "Lahore"
+    }
+}
